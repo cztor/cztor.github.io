@@ -1,8 +1,7 @@
 Xyj Online!!
-ci:836855566\r\n
-fu:886569896\r\n
-jiankong:555835668\r\n
-jk:356726842\r\n
-xiuyi:532888669\r\n
-yaoshi:356726842\r\n
-over
+ci:836855566@
+fu:886569896@
+jiankong:555835668@
+jk:356726842@
+xiuyi:532888669@
+yaoshi:356726842@
